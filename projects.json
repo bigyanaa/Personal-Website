@@ -1,0 +1,25 @@
+{
+    "projects": [
+        {
+            "title": "SimuLearn",
+            "description": "A modern, responsive personalized learning platform with simulations.",
+            "tech": ["HTML", "CSS", "Flask", "MYSQL"],
+            "year": 2023
+        },
+        {
+            "title": "FSU App",
+            "description": "A social media platform developed for FSU with features for connecting students and sharing resources.",
+            "tech": ["Django", "React Native", "MySQL", "JavaScript"],
+            "year": 2023
+        }
+        // Add new projects following the same format:
+        /*
+        {
+            "title": "Project Name",
+            "description": "Project description",
+            "tech": ["Technology1", "Technology2"],
+            "year": 2024
+        }
+        */
+    ]
+}
